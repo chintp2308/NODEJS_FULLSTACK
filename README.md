@@ -1,4 +1,4 @@
-BookingCare - Nền tảng đặt lịch hẹn trực tuyến
+## BookingCare - Nền tảng đặt lịch hẹn trực tuyến
 
 # Giới thiệu
 
