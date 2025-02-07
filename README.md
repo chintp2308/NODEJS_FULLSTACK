@@ -18,19 +18,19 @@ Quản lý dữ liệu bác sĩ, người dùng, đặt lịch hẹn
 
 Tích hợp thanh toán và gửi email xác nhận
 
-Cài đặt Backend
+# Cài đặt Backend
 
-# Clone repository
+## Clone repository
 git clone https://github.com/chintp2308/NODEJS_FULLSTACK.git
 cd NODEJS_FULLSTACK
 
-# Cài đặt dependencies
+## Cài đặt dependencies
 npm install
 
-# Cấu hình biến môi trường
+## Cấu hình biến môi trường
 Tạo file `.env` và thêm các thông tin cần thiết
 
-# Khởi động server
+## Khởi động server
 npm start
 
 
