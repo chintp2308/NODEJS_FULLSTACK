@@ -10,13 +10,13 @@ BookingCare Backend là hệ thống máy chủ của nền tảng đặt lịch
 
 * Chức năng chính:
 
-Xử lý API cho hệ thống đặt lịch hẹn
+- Xử lý API cho hệ thống đặt lịch hẹn
 
-Xác thực người dùng 
+- Xác thực người dùng 
 
-Quản lý dữ liệu bác sĩ, người dùng, đặt lịch hẹn
+- Quản lý dữ liệu bác sĩ, người dùng, đặt lịch hẹn
 
-Tích hợp thanh toán và gửi email xác nhận
+- Tích hợp thanh toán và gửi email xác nhận
 
 * Cài đặt Backend
 
